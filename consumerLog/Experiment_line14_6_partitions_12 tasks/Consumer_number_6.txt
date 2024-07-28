@@ -1,0 +1,9 @@
+
+Summary:
+Consumer number: 6
+Partitions read from: []
+Period of time between messages: 133 milliseconds
+Average processing time per task: 0 milliseconds
+Total processing time: 0 milliseconds
+Total tasks processed: 0
+

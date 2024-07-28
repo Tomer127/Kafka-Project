@@ -1,0 +1,8 @@
+Summary:
+Number of Consumers: 4
+Name of the topic: Test-Topic
+Period of time between messages: 133 milliseconds
+Average processing time per task: 1286 milliseconds
+Sum of all consumers processing time: 15450 milliseconds
+Average processing time per consumer: 3860 milliseconds
+Total tasks processed: 12

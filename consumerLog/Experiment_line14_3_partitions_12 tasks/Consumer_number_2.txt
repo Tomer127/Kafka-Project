@@ -1,0 +1,13 @@
+
+Summary:
+Consumer number: 2
+Partitions read from: [1]
+Period of time between messages: 133 milliseconds
+Average processing time per task: 1288 milliseconds
+Total processing time: 5154 milliseconds
+Total tasks processed: 4
+
+Task: task3-sleep(1285), Sent at: 2024-07-21 16:49:05, Finished at: 2024-07-21 16:49:05, Total time: 1298 ms
+Task: task6-sleep(1285), Sent at: 2024-07-21 16:49:05, Finished at: 2024-07-21 16:49:06, Total time: 1285 ms
+Task: task9-sleep(1285), Sent at: 2024-07-21 16:49:06, Finished at: 2024-07-21 16:49:07, Total time: 1286 ms
+Task: task12-sleep(1285), Sent at: 2024-07-21 16:49:06, Finished at: 2024-07-21 16:49:09, Total time: 1285 ms
